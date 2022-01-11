@@ -13,7 +13,7 @@ const createAll = (teamRoster) => {
         </div>
         <div class='card-body'>
         <p>ID:${manager.getId()}</p>
-        <p>Email: <a href="mailto:${manager.getEmail()}"></a> ${manager.getEmail()}</p>
+        <p>Email: <a href="mailto:${manager.getEmail()}">${manager.getEmail()}</a></p>
         <p>Office Number:${manager.getOfficeNumber()}</p>
         </div>
       </div>

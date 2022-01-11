@@ -28,7 +28,7 @@ Project to dynamically create and display to html file after being prompted by q
 
 # Video
 
-[Video demo](https://watch.screencastify.com/v/AMzyKpp4KrG89lLfoTZm)
+[Video demo](https://watch.screencastify.com/v/XzKWrNVrZMdKSCUAEqvV)
 
 # Questions
 
